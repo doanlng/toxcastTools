@@ -1,1 +1,1 @@
-
+These data sets are used in the attribute generation courtesy of Dr. Brad Reisfeld of Colorado State University.  Any CSV generation will also be sent here.  CSVs are mostly used, but pkls are provided per convenience.
